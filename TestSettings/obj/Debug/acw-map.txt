@@ -1,0 +1,4 @@
+TestSettings.MainActivity, TestSettings;md593c670a474ed9f68ef3d8529a01bd490.MainActivity
+TestSettings.MainActivity, TestSettings, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md593c670a474ed9f68ef3d8529a01bd490.MainActivity
+TestSettings.MainActivity;md593c670a474ed9f68ef3d8529a01bd490.MainActivity
+testsettings.MainActivity;md593c670a474ed9f68ef3d8529a01bd490.MainActivity

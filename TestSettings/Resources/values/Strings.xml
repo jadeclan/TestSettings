@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="clickMe">Hello Sonia/Ryan, Click Me!</string>
+    <string name="clickMessage">Wow, its a miracle you actually clicked the button!</string>
+    <string name="ApplicationName">TestSettings</string>
+</resources>
